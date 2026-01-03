@@ -2,6 +2,7 @@ streamlit
 pandas
 requests
 python-dotenv
-crewai
-crewai-tools
+crewai==0.28.8
+crewai-tools==0.1.6
 langchain-google-genai
+pydantic==2.9.2
