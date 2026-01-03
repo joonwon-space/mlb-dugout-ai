@@ -3,6 +3,6 @@ pandas
 requests
 python-dotenv
 langchain-google-genai
-crewai==0.30.11
-crewai-tools==0.2.6
+crewai==0.36.0
+crewai-tools==0.4.26
 pydantic==2.10.4
