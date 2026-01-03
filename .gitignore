@@ -1,0 +1,30 @@
+# API Keys & Secrets (가장 중요!)
+.env
+*.env
+credentials.json
+
+# Python Virtual Environment
+.venv/
+env/
+venv/
+ENV/
+
+# Python Cache & Compiled Files
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+
+# OS Specific Files
+.DS_Store
+Thumbs.db
+
+# IDE Settings
+.vscode/
+.idea/
+
+# Data & Logs
+*.log
+*.sqlite3
+data/
